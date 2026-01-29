@@ -5,7 +5,7 @@ Creative technologist with expertise in real-time systems, interactive media,
 and audio technology. Specialized in bridging technical implementation
 with artistic vision through full-stack development, creative coding, and
 multimedia integration.
-- 📫 How to reach me **amerenamatteo@gmail.com**
+- 📫 How to reach me **amerenamatteo@ik.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
